@@ -2,8 +2,8 @@
     font-family: verdana;
 }
 
-h1 {
-    text-align: center;
+.CV-Name {
+    text-align: left;
     font-family: "Source Sans Pro", sans-serif;
-    font-weight: normal;
+    font-size: 30px;
 }
